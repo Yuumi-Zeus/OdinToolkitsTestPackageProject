@@ -1,0 +1,16 @@
+{
+  "name": "cn.yuumix.rootpathlocation",
+  "version": "0.3.0-alpha",
+  "displayName": "Odin Toolkits - RootPathLocation",
+  "description": "Odin Toolkits - RootPathLocation，关于 RootPathLocation 的测试",
+  "unity": "2019.3",
+  "documentationUrl": "https://www.odintoolkits.cn/",
+  "changelogUrl": "https://www.odintoolkits.cn/CHANGELOG/",
+  "licensesUrl": "https://github.com/Yuumi-Zeus/OdinToolkits-For-Unity?tab=MIT-1-ov-file",
+  "author": {
+    "name": "Yuumi Zeus",
+    "email": "zeriying@gmail.com",
+    "url": "https://github.com/Yuumi-Zeus/OdinToolkits-For-Unity"
+  },
+  "hideInEditor": false
+}
